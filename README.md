@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a final-year Artificial Intelligence and Data Science student with a strong foundation in Python, Machine Learning, and Data Analysis. I enjoy solving real-world problems using data-driven approaches and have worked on academic and hands-on projects involving ML models, NLP, and data visualization. I am a quick learner, team-oriented, and actively seeking an entry-level role where I can apply my skills, grow technically, and contribute to impactful projects.
+Hi, I'm Neha Kumari, an AI & Data Science graduate passionate about building intelligent, data-driven solutions.
+
+- 💻 Strong in **Python, SQL, Java, Data Structures & Algorithms**
+- 📊 Interested in **Data Analytics, Machine Learning & Statistical Modeling**
+- 🤖 Building projects with **Generative AI, LLMs, RAG & AI Agents**
+- 🔧 Experienced with **Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch & FastAPI**
+- 🚀 Interested in **Software Engineering, AI/ML & Data Analyst** roles
+- 🧩 **350+ LeetCode problems** solved
+- 🌱 Continuously learning and building real-world projects
 
 
 ## 🌐 Socials:
